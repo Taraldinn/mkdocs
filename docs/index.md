@@ -1,11 +1,11 @@
-# Home
+# FullStack Army - The Most Advanced MERN Stack Resources
+
 <img src='./assets/fullstack.png' alt='FullStack Army The Most Advanced MERN Stack Resources.png'/>
 
 **Documentation: https://fullstackarmy.taraldinn.me/**
 
 **Source Code: https://github.com/mrhm-dev/full-stack-army**
 
-# FullStack Army - The Most Advanced MERN Stack Resources
 
 
 ???+ note
